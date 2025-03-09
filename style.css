@@ -85,6 +85,7 @@ li {
   margin: 10px 0;
 }
 
+/*Make the children of the nutritional-value-container take up equal space*/
 .nutrional-value-container * {
   flex: 1;
 }
